@@ -8,7 +8,7 @@ public class ContaCorrente {
     Integer agencia = 1;
     String nomeCliente = "Pedro";
     LocalDate dataNascimento;
-    Double saldo = 1000.0;
+    Double saldo = 100.0;
     boolean ativo = true;
 
     void sacar(double valor) {}
