@@ -1,4 +1,4 @@
-package je05_tipos_wrppers;
+package je05_tipos_wrappers;
 
 public class TiposWrappers {
     public static void main(String[] args) {
