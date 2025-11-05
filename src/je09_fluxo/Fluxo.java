@@ -64,7 +64,7 @@ public class Fluxo {
             Double valor = Double.valueOf("15");
             System.out.println(valor);
         } catch (NumberFormatException ex) {
-            System.err.println("A STRING FORNECIDA NÃO É UM NÚMERO VÁLIDO!");
+            System.err.println("A STRING FORNECIDA NÃO É UM NÚMERO VÁLIDO!!");
         }
 
         try {
